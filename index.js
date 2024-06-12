@@ -5,5 +5,5 @@ function syname(){
     console.log('My name is '+name);
 }
 function above18(){
-    return age>18;
+    return age>19;
 }
