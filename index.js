@@ -10,3 +10,6 @@ function above18(){
 function new(){
     console.log('new feature added')
 }
+function newb(){
+    console.log('new feature added b')
+}
